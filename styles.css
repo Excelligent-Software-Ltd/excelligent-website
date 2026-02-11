@@ -941,24 +941,6 @@ h3 {
     color: var(--text-light);
 }
 
-.testimonial-box {
-    background: linear-gradient(135deg, var(--primary-blue), var(--accent-purple));
-    color: white;
-    border: none;
-}
-
-.testimonial-text {
-    font-style: italic;
-    font-size: 16px;
-    margin-bottom: 20px;
-    line-height: 1.6;
-}
-
-.testimonial-author {
-    font-size: 14px;
-    opacity: 0.9;
-}
-
 /* ===========================
    CTA Section
    =========================== */
