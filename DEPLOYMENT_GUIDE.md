@@ -59,7 +59,7 @@ git push origin main
 ### Immediate Changes to Make
 
 1. **Update Email Address** (demo.html)
-   - Search for: `hello@excelligent.co.uk`
+   - Search for: `info@excelligent.co.uk`
    - Replace with your actual email
 
 2. **Add Your Logo** (Optional)
